@@ -1,1 +1,7 @@
+### Desc:
 A large-scale emoji insertion corpus named ``MultiEmoji'', which contains 420,000 English posts with at least one emoji per post. (Paper: Sentiment-aware Emoji Insertion via Sequence Tagging)
+
+- MultiEmoji_corpus.csv.zip: The constructed corpus, including all 420,000 samples.
+- corpus_train.txt: Training set.
+- corpus_dev.txt: Validation set.
+- corpus_test.txt: Test set.
